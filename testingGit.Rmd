@@ -8,3 +8,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 this is a test
+
+checking to make sure it uploads onto GitHub online
